@@ -1,0 +1,15 @@
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\MainWindow.g.cs
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\App.g.cs
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo_MarkupCompile.cache
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo_MarkupCompile.lref
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\MainWindow.baml
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.g.resources
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.Properties.Resources.resources
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.csproj.GenerateResource.cache
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.csproj.CoreCompileInputs.cache
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.pdb
+F:\Projects\InkCanvasDemo\InkCanvasDemo\bin\Debug\InkCanvasDemo.exe.config
+F:\Projects\InkCanvasDemo\InkCanvasDemo\bin\Debug\InkCanvasDemo.exe
+F:\Projects\InkCanvasDemo\InkCanvasDemo\bin\Debug\InkCanvasDemo.pdb
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.exe
+F:\Projects\InkCanvasDemo\InkCanvasDemo\obj\Debug\InkCanvasDemo.csprojAssemblyReference.cache
